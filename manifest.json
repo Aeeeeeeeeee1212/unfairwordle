@@ -1,10 +1,10 @@
 { 
 
-  "name": "WebsiteName", 
+  "name": "Unfair Wordle", 
 
-  "short_name": "WebName", 
+  "short_name": "Unfair Wordle", 
 
-  "start_url": "https://DomainName", 
+  "start_url": "https://unfairwordle.uselessrandomstuff.com", 
 
   "display": "standalone", 
 
